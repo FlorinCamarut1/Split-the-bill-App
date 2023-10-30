@@ -1,3 +1,6 @@
+Vercel deployment: https://split-the-bill-app.vercel.app/
+A simple app using reusable components, where you can add friends and split a bill with them.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
